@@ -1,10 +1,10 @@
-package bot.headtrawler.trawler;
+package com.drakon.headtrawler;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TrawlerApplicationTests {
+class HeadtrawlerApplicationTests {
 
 	@Test
 	void contextLoads() {
